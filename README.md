@@ -1,5 +1,5 @@
 # seo--refactor-exc-Yonas W
-[Link to live site](www.Idontknowhowtosetthisupyet.com)
+[Link to live site](https://ybyonas1.github.io/seo--refactor-exc-yw/)
 
 ## Table of Content
 - [Description](#Description)
@@ -20,4 +20,4 @@ MIT
 
 ## Links
 [Source Code](https://github.com/Ybyonas1/seo--refactor-exc-yw)
-[Deployed Website](www.dontknowhowtodothisyet.com)
+[Deployed Website](https://ybyonas1.github.io/seo--refactor-exc-yw/)
