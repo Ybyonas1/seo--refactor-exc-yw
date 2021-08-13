@@ -1,5 +1,5 @@
 # seo--refactor-exc-Yonas W
-[Link to live site](https://ybyonas1.github.io/seo--refactor-exc-yw/)
+[Link to live site](https://ybyonas1.github.io/seo--refactor-exc-yw/#search-engine-optimizationgit)
 
 ## Table of Content
 - [Description](#Description)
@@ -10,14 +10,14 @@
 ## Description
 
 ## Usage
-This project was assigned to me by my Coding Bootcamp.
+How to use my project
 
 ## License
-All fellow cohorts & instructors/TA's have access to this website..?
+MIT
 
 ## Screenshots
 ![Seo refactor YW](assets/images/seorefyw.png)
 
 ## Links
 [Source Code](https://github.com/Ybyonas1/seo--refactor-exc-yw)
-[Deployed Website](https://ybyonas1.github.io/seo--refactor-exc-yw/)
+[Deployed Website](https://ybyonas1.github.io/seo--refactor-exc-yw/#search-engine-optimization)
