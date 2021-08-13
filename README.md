@@ -10,10 +10,10 @@
 ## Description
 
 ## Usage
-How to use my project
+This project was assigned to me by my Coding Bootcamp.
 
 ## License
-MIT
+All fellow cohorts & instructors/TA's have access to this website..?
 
 ## Screenshots
 ![Seo refactor YW](assets/images/seorefyw.png)
